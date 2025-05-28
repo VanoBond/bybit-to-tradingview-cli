@@ -1,0 +1,21 @@
+{
+  "name": "bybit-to-tradingview-cli",
+  "version": "1.0.1",
+  "description": "CLI tool that exports the top 40 Bybit perpetual futures symbols to a TradingView-compatible format",
+  "main": "index.js",
+  "bin": {
+    "bybit-to-tradingview": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vanobond/bybit-to-tradingview-cli.git"
+  },
+  "author": "VanoBond",
+  "license": "MIT",
+  "keywords": [
+    "bybit",
+    "tradingview",
+    "cli",
+    "crypto"
+  ]
+}
